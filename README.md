@@ -4,4 +4,4 @@
 
 3. Text 강조하기(strong, em tag), form 구성하기(form, input, label, fieldset과 legend, textarea, select, button tag) - 97page
 
-4. 표 만들기(table, caption tag Ex)-tr, th, td, rowspan, colsapn, clogroup), 멀티미디어 설정하기(audion tag) - 108page
+4. 표 만들기(table, caption tag Ex)-tr, th, td, rowspan, colsapn, clogroup), 멀티미디어 설정하기(audio tag) - 108page
