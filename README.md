@@ -13,6 +13,7 @@ JavaScript part
 ---
 JS_01: 변수와 상수, 자료형, 연산자 - 360page
 
-JS_02: - 조건문( if, else..if, switch)
-       - 반복문( while, do...while, for, for...in, break, continue)
-       - 함수( Declaration, Expression, Arrow, return, Hoisting, Scope, IIFE) - 417page
+JS_02:
+- 조건문( if, else..if, switch)
+- 반복문( while, do...while, for, for...in, break, continue)
+- 함수( Declaration, Expression, Arrow, return, Hoisting, Scope, IIFE) - 417page
