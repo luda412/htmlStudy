@@ -13,7 +13,7 @@ function saveToDos() {
 function deleteToDo(event) {
   const li = event.target.parentElement
   li.remove()
-  toDos = toDos.filter((toDo) => toDo.id !== parseInt(li.id)) // 클릭한 li.id와 다른 toDo는 남겨 두고 싶어.
+  toDos = toDos.filter((toDo) => toDo.id !== parseInt(li.id))
   saveToDos()
 }
 
