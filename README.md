@@ -1,33 +1,29 @@
-# 🎥 Movie App Creation 
+# 🎥 Creating a Movie App
 
-## First: Lean JSX
+## First Step: Understanding JSX
 
-- Bacis of React
-- What is Component
-- How to Use Component(Ex. Import)
-- What is State And Props
+- Basics of React
+- What are Components?
+- How to Use Components (e.g., Importing)
+- Understanding State and Props
 
-If you click on [this](https://www.notion.so/7-_1-ReactJS-d15020a1fa3442ba9cb5f3906ca5528f), you can go to the Notion page
----
+For detailed explanations, please visit [this Notion page](https://www.notion.so/7-_1-ReactJS-d15020a1fa3442ba9cb5f3906ca5528f).
 
-## Second: Use Effects
+## Second Step: Implementing Effects
 
-- What is UseEffect
-- What is an empty array
-- How to handle rerendering
+- Understanding useEffect
+- The significance of an empty array
+- Managing rerendering
 
-Also, You click on [this](https://www.notion.so/EFFECTS-8765b8e38b964646ad7f8e479da1c32b) you can go to the Notion page
----
+For more information, check out [this Notion page](https://www.notion.so/EFFECTS-8765b8e38b964646ad7f8e479da1c32b).
 
-## Third: Feature of App
+## Third Step: Features of the App
 
-- To Do
-- Movie API(URL)
-- Fetch
-- And Use React Router
+- To Do List
+- Integration with Movie API (URL)
+- Fetching data
+- Utilizing React Router for navigation
 
----
+## Final Step: Publishing
 
-## Final: Publishing
-
-All explanations can be found by clicking on this [Notion Page](https://www.notion.so/7-_1-ReactJS-d15020a1fa3442ba9cb5f3906ca5528f)
+For detailed explanations, refer to the [Notion Page](https://www.notion.so/7-_1-ReactJS-d15020a1fa3442ba9cb5f3906ca5528f).
